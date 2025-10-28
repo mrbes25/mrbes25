@@ -3,11 +3,11 @@
 ### _From working hands-on with pianos to solving problems in C and C++, I’ve always enjoyed tackling challenges and working with precision._
 
 ### A bit about me:
-- 🎯 Studying Software Engineering at **42 Lausanne** **➛** learning by doing\
-- 🎹 7+ years as a piano technician **➛** precision, patience, and problem-solving\
-- 🖥️ Coding in C/C++ **➛** performance, memory, control\
-- 🤝 Collaboration > competition **➛** better together\
-- 🧭 Ethics & responsibility **➛** in tech, in community, in craft\
+- 🎯 Studying Software Engineering at **42 Lausanne** **➛** learning by doing
+- 🎹 7+ years as a piano technician **➛** precision, patience, and problem-solving
+- 🖥️ Coding in C/C++ **➛** performance, memory, control
+- 🤝 Collaboration > competition **➛** better together
+- 🧭 Ethics & responsibility **➛** in tech, in community, in craft
 - 🧘 Patience **➛** learned from tuning pianos, applies to debugging too
 
 ---
