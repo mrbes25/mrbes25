@@ -4,20 +4,27 @@
 
 
 ### A bit about me:
-🎯 Studying Software Engineering at **42 Lausanne** **➛** learning by doing\
-🎹 7+ years as a piano technician **➛** precision, patience, and problem-solving\
-🖥️ Coding in C/C++ **➛** performance, memory, control\
-🤝 Collaboration > competition **➛** better together\
-🧭 Ethics & responsibility **➛** in tech, in community, in craft\
-🧘 Patience **➛** learned from tuning pianos, applies to debugging too\
+- 🎯 Studying Software Engineering at **42 Lausanne** **➛** learning by doing\
+- 🎹 7+ years as a piano technician **➛** precision, patience, and problem-solving\
+- 🖥️ Coding in C/C++ **➛** performance, memory, control\
+- 🤝 Collaboration > competition **➛** better together\
+- 🧭 Ethics & responsibility **➛** in tech, in community, in craft\
+- 🧘 Patience **➛** learned from tuning pianos, applies to debugging too
 
 ---
 
-### 🔧 Tech Stack:
-#### C | C++ | Bash | Git | Make | GDB | Valgrind
+### 🔧 Current Tech Stack, still growing and improving:
+<img width="70" height="70" alt="c" src="https://github.com/user-attachments/assets/9837e885-3c9a-4989-ba5a-7d265a000388" />
+<img width="70" height="70" alt="cpp" src="https://github.com/user-attachments/assets/b41388ed-13f6-4051-b9b9-2fc16bd2a7e2" />
+<img width="70" height="70" alt="bash" src="https://github.com/user-attachments/assets/b5f29c50-fa3b-4750-bcc9-5d2824fe988f" />
+<img width="70" height="70" alt="docker" src="https://github.com/user-attachments/assets/fd81a1ae-77a3-400a-810e-4ba9b56a596d" />
+<img width="70" height="70" alt="git" src="https://github.com/user-attachments/assets/595160f7-ff62-4fa8-a965-f2ee7f7d1356" />
+<img width="70" height="70" alt="github" src="https://github.com/user-attachments/assets/fd7933be-aafa-483f-af78-f7ceb93832e5" />
 
-[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/myprofile](https://www.linkedin.com/in/bastian-schmid/))
+---
 
-#### Random dev quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### ✉️ Happy to connect!
+[![homepage][1]][2]
 
+[1]:  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[2]:  https://www.linkedin.com/in/myprofile](https://www.linkedin.com/in/bastian-schmid
