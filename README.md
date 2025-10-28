@@ -1,19 +1,23 @@
-# About Me:
-Interested in everything with a keyboard
+<img width="1949" height="503" alt="Untitled-6(2)" src="https://github.com/user-attachments/assets/1afd4475-e4a3-41bf-838f-534be3d30fb7" />
 
-Currently studying Software Engineering at 42 Lausanne
-
-Find out more on my [LinkedIn](https://www.linkedin.com/in/bastian-schmid/) – looking forward to connecting!
-
-# Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-# GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=mrbes25&theme=gruvbox&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbes25&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+### _From working hands-on with pianos to solving problems in C and C++, I’ve always enjoyed tackling challenges and working with precision._
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### A bit about me:
+🎯 Studying Software Engineering at **42 Lausanne** **➛** learning by doing\
+🎹 7+ years as a piano technician **➛** precision, patience, and problem-solving\
+🖥️ Coding in C/C++ **➛** performance, memory, control\
+🤝 Collaboration > competition **➛** better together\
+🧭 Ethics & responsibility **➛** in tech, in community, in craft\
+🧘 Patience **➛** learned from tuning pianos, applies to debugging too\
+
+---
+
+### 🔧 Tech Stack:
+#### C | C++ | Bash | Git | Make | GDB | Valgrind
+
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/myprofile](https://www.linkedin.com/in/bastian-schmid/))
+
+#### Random dev quote:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
