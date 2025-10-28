@@ -32,4 +32,4 @@
 [![homepage][1]][2]
 
 [1]:  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[2]:  https://www.linkedin.com/in/myprofile](https://www.linkedin.com/in/bastian-schmid
+[2]:  https://www.linkedin.com/in/bastian-schmid
