@@ -39,5 +39,4 @@
 
 ---
 
-
-[<img width="2398" height="300" alt="Untitled-7(2)" src="https://github.com/user-attachments/assets/1638d111-38a8-40f3-af2c-f79f7a2a952a" />](https://www.linkedin.com/in/bastian-schmid)
+[<img width="2398" height="300" alt="Untitled-2(3)" src="https://github.com/user-attachments/assets/c5a7bbbb-7c13-4e0d-9e0e-a50451fb232c" />](https://www.linkedin.com/in/bastian-schmid)
