@@ -15,11 +15,11 @@
 ### 🔧 Current tech stack — still growing and improving:
 <img width="70" height="70" alt="c" src="https://github.com/user-attachments/assets/9837e885-3c9a-4989-ba5a-7d265a000388" />
 <img width="70" height="70" alt="cpp" src="https://github.com/user-attachments/assets/b41388ed-13f6-4051-b9b9-2fc16bd2a7e2" />
+<img width="70" height="70" alt="python" src="https://github.com/user-attachments/assets/89fec0c9-7612-4361-a8a9-d819503899d9" />
 <img width="70" height="70" alt="bash" src="https://github.com/user-attachments/assets/b5f29c50-fa3b-4750-bcc9-5d2824fe988f" />
 <img width="70" height="70" alt="docker" src="https://github.com/user-attachments/assets/fd81a1ae-77a3-400a-810e-4ba9b56a596d" />
 <img width="70" height="70" alt="git" src="https://github.com/user-attachments/assets/595160f7-ff62-4fa8-a965-f2ee7f7d1356" />
 <img width="70" height="70" alt="github" src="https://github.com/user-attachments/assets/fd7933be-aafa-483f-af78-f7ceb93832e5" />
-<img width="70" height="70" alt="python" src="https://github.com/user-attachments/assets/89fec0c9-7612-4361-a8a9-d819503899d9" />
 
 ---
 
