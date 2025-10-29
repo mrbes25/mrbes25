@@ -1,6 +1,8 @@
-<img width="1949" height="503" alt="Untitled-6(2)" src="https://github.com/user-attachments/assets/1afd4475-e4a3-41bf-838f-534be3d30fb7" />
+<img width="2398" height="618" alt="Untitled-6(3)" src="https://github.com/user-attachments/assets/fb121574-3e93-4c32-84d9-4ad5e7521347" />
 
-### _From working hands-on with pianos to solving problems in C and C++, I’ve always enjoyed tackling challenges and working with precision._
+### _`From working hands-on with pianos to solving problems in C, C++ and Python, I’ve always enjoyed tackling challenges and working with precision!`_
+
+---
 
 ### A bit about me:
 - 🎯 Studying Software Engineering at **42 Lausanne** **➛** learning by doing
@@ -12,25 +14,30 @@
 
 ---
 
-### 🔧 Current tech stack — still growing and improving:
-<img width="70" height="70" alt="c" src="https://github.com/user-attachments/assets/9837e885-3c9a-4989-ba5a-7d265a000388" />
-<img width="70" height="70" alt="cpp" src="https://github.com/user-attachments/assets/b41388ed-13f6-4051-b9b9-2fc16bd2a7e2" />
-<img width="70" height="70" alt="python" src="https://github.com/user-attachments/assets/89fec0c9-7612-4361-a8a9-d819503899d9" />
-<img width="70" height="70" alt="bash" src="https://github.com/user-attachments/assets/b5f29c50-fa3b-4750-bcc9-5d2824fe988f" />
-<img width="70" height="70" alt="docker" src="https://github.com/user-attachments/assets/fd81a1ae-77a3-400a-810e-4ba9b56a596d" />
-<img width="70" height="70" alt="git" src="https://github.com/user-attachments/assets/595160f7-ff62-4fa8-a965-f2ee7f7d1356" />
-<img width="70" height="70" alt="github" src="https://github.com/user-attachments/assets/fd7933be-aafa-483f-af78-f7ceb93832e5" />
+### 🔧 Current tech stack, _growing and improving almost everyday:_
+<img width="85" height="85" alt="c" src="https://github.com/user-attachments/assets/9837e885-3c9a-4989-ba5a-7d265a000388" />
+<img width="85" height="85" alt="cpp" src="https://github.com/user-attachments/assets/b41388ed-13f6-4051-b9b9-2fc16bd2a7e2" />
+<img width="85" height="85" alt="python" src="https://github.com/user-attachments/assets/89fec0c9-7612-4361-a8a9-d819503899d9" />
+<img width="85" height="85" alt="bash" src="https://github.com/user-attachments/assets/b5f29c50-fa3b-4750-bcc9-5d2824fe988f" />
+<img width="85" height="85" alt="docker" src="https://github.com/user-attachments/assets/fd81a1ae-77a3-400a-810e-4ba9b56a596d" />
+<img width="85" height="85" alt="git" src="https://github.com/user-attachments/assets/595160f7-ff62-4fa8-a965-f2ee7f7d1356" />
+<img width="85" height="85" alt="github" src="https://github.com/user-attachments/assets/fd7933be-aafa-483f-af78-f7ceb93832e5" />
 
 ---
 
-### 🚀 Currently working on:
-![webserv](https://github.com/leogaudin/42_project_badges/raw/main/badges/webserv.webp)
-![cpp](https://github.com/leogaudin/42_project_badges/raw/main/badges/cpp.webp)
+### 🚀 In the works:
+[<img alt="webserv" width="140px" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/webserv.webp" />](https://m4nnb3ll.medium.com/webserv-building-a-non-blocking-web-server-in-c-98-a-42-project-04c7365e4ec7) [<img alt="cpp" width="140px" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cpp.webp" />](https://github.com/snowhp/CPP-Modules)
+
 
 ---
 
-### ✉️ Happy to connect!
-[![homepage][1]][2]
+### ✨ A selection of 42 projects I completed:
+[<img alt="minishell" width="140px" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minishell.webp" />](https://github.com/mrbes25/mini-s-hell/)
+[<img alt="cub3d" width="140px" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cub3d.webp" />](https://github.com/mrbes25/cub3d/)
+[<img alt="push_swap" width="140px" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/push_swap.webp" />](https://github.com/mrbes25/push_swap/)
+[<img alt="fract-ol" width="140px" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/fract-ol_bonus.webp" />](https://github.com/mrbes25/fract-ol/)
 
-[1]:  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[2]:  https://www.linkedin.com/in/bastian-schmid
+---
+
+
+[<img width="2398" height="300" alt="Untitled-7(2)" src="https://github.com/user-attachments/assets/1638d111-38a8-40f3-af2c-f79f7a2a952a" />](https://www.linkedin.com/in/bastian-schmid)
