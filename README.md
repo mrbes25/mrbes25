@@ -19,6 +19,7 @@
 <img width="70" height="70" alt="docker" src="https://github.com/user-attachments/assets/fd81a1ae-77a3-400a-810e-4ba9b56a596d" />
 <img width="70" height="70" alt="git" src="https://github.com/user-attachments/assets/595160f7-ff62-4fa8-a965-f2ee7f7d1356" />
 <img width="70" height="70" alt="github" src="https://github.com/user-attachments/assets/fd7933be-aafa-483f-af78-f7ceb93832e5" />
+<img width="70" height="70" alt="python" src="https://github.com/user-attachments/assets/89fec0c9-7612-4361-a8a9-d819503899d9" />
 
 ---
 
