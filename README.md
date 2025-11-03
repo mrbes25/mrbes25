@@ -4,7 +4,7 @@
 
 ---
 
-### A bit about me:
+### 👨‍💻 A bit about me:
 - 🎯 Studying Software Engineering at **42 Lausanne** **➛** learning by doing
 - 🎹 7+ years as a piano technician **➛** precision, patience, and problem-solving
 - 🖥️ Coding in C/C++ **➛** performance, memory, control
