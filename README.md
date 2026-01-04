@@ -28,7 +28,7 @@
 
 ### 🚀 In the works:
 [<img alt="cpp" width="140px" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cpp.webp" />](https://github.com/snowhp/CPP-Modules)
-[<img alt="inception" width="140px" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/inception.webp" />]([https://github.com/snowhp/inception](https://medium.com/@imyzf/inception-3979046d90a0))
+[<img alt="inception" width="140px" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/inception.webp" />](https://medium.com/@imyzf/inception-3979046d90a0)
 
 
 
