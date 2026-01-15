@@ -26,7 +26,6 @@
 ---
 
 ### 🚀 In the works:
-[<img alt="cpp" width="140px" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cpp.webp" />](https://github.com/snowhp/CPP-Modules)
 [<img alt="inception" width="140px" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/inception.webp" />](https://medium.com/@imyzf/inception-3979046d90a0)
 
 
@@ -35,9 +34,9 @@
 
 ### ✨ A selection of projects I completed at 42:
 [<img alt="webserv" width="140px" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/webserv.webp" />](https://m4nnb3ll.medium.com/webserv-building-a-non-blocking-web-server-in-c-98-a-42-project-04c7365e4ec7)
+[<img alt="cpp" width="140px" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cpp.webp" />](https://github.com/snowhp/CPP-Modules)
 [<img alt="minishell" width="140px" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minishell.webp" />](https://github.com/mrbes25/mini-s-hell/)
 [<img alt="cub3d" width="140px" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cub3d.webp" />](https://github.com/mrbes25/cub3d/)
-[<img alt="push_swap" width="140px" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/push_swap.webp" />](https://github.com/mrbes25/push_swap/)
 [<img alt="fract-ol" width="140px" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/fract-ol_bonus.webp" />](https://github.com/mrbes25/fract-ol/)
 
 ---
