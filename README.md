@@ -33,7 +33,6 @@
 ---
 
 ### ✨ A selection of projects I completed at 42:
-[<img alt="inception" width="140px" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/inception.webp" />](https://github.com/mrbes25/inception)
 [<img alt="webserv" width="140px" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/webserv.webp" />](https://github.com/Sylvfo/webserv)
 [<img alt="cpp" width="140px" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cpp.webp" />](https://github.com/mrbes25/CPP)
 [<img alt="minishell" width="140px" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minishell.webp" />](https://github.com/mrbes25/mini-s-hell/)
