@@ -28,8 +28,6 @@
 [<img alt="ft_transcendence" width="140px" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_transcendence.webp" />](https://github.com/LilBoooopp/transcendence)
 [<img alt="webserv" width="140px" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/webserv.webp" />](https://github.com/Sylvfo/webserv)
 [<img alt="cub3d" width="140px" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cub3d.webp" />](https://github.com/mrbes25/cub3d/)
-[<img alt="aaaah" width="140px" src="https://aaaah.ch/wp-content/uploads/2025/10/logo-png-150x150.png" />](https://aaaah.ch)
-
 
 ---
 
