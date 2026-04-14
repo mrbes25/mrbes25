@@ -24,13 +24,6 @@
 
 ---
 
-### 🚀 In the works:
-<img alt="ft_transcendence" width="140px" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_transcendence.webp" />
-
-
-
----
-
 ### ✨ A selection of projects:
 [<img alt="ft_transcendence" width="140px" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_transcendence.webp" />](https://github.com/LilBoooopp/transcendence)
 [<img alt="webserv" width="140px" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/webserv.webp" />](https://github.com/Sylvfo/webserv)
