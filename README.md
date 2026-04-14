@@ -1,13 +1,12 @@
 <img width="2398" height="618" alt="Untitled-6(3)" src="https://github.com/user-attachments/assets/fb121574-3e93-4c32-84d9-4ad5e7521347" />
 
-### _`From working hands-on with pianos to solving problems in C and C++, I’ve always enjoyed tackling challenges and working with precision!`_
+### _`From working hands-on with pianos to solving problems in C, C++ and more, I’ve always enjoyed tackling challenges and working with precision!`_
 
 ---
 
 ### 👨‍💻 A bit about me:
-- 🎯 Studying Software Engineering at **42 Lausanne** **➛** learning by doing
+- 🎯 Completed the Common Core at **42 Lausanne** **➛** learning by doing
 - 🎹 7+ years as a piano technician **➛** precision, patience, and problem-solving
-- 🖥️ Coding in C/C++ **➛** performance, memory, control
 - 🤝 Collaboration > competition **➛** better together
 - 🧭 Ethics & responsibility **➛** in tech, in community, in craft
 - 🧘 Patience **➛** learned from tuning pianos, applies to debugging too
@@ -32,12 +31,12 @@
 
 ---
 
-### ✨ A selection of projects I completed at 42:
+### ✨ A selection of projects:
+[<img alt="ft_transcendence" width="140px" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_transcendence.webp" />](https://github.com/LilBoooopp/transcendence)
 [<img alt="webserv" width="140px" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/webserv.webp" />](https://github.com/Sylvfo/webserv)
-[<img alt="cpp" width="140px" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cpp.webp" />](https://github.com/mrbes25/CPP)
-[<img alt="minishell" width="140px" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minishell.webp" />](https://github.com/mrbes25/mini-s-hell/)
 [<img alt="cub3d" width="140px" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cub3d.webp" />](https://github.com/mrbes25/cub3d/)
-[<img alt="fract-ol" width="140px" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/fract-ol_bonus.webp" />](https://github.com/mrbes25/fract-ol/)
+[<img alt="aaaah" width="140px" src="https://aaaah.ch/wp-content/uploads/2025/10/logo-png-150x150.png" />](https://aaaah.ch)
+
 
 ---
 
