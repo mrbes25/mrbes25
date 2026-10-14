@@ -6,7 +6,7 @@
 
 ### 👨‍💻 A bit about me:
 - 🎯 Completed the Common Core at **42 Lausanne** **➛** learning by doing
-- 🎹 7+ years as a piano technician **➛** precision, patience, and problem-solving
+- 🎹 8+ years as a piano technician **➛** precision, patience, and problem-solving
 - 🤝 Collaboration > competition **➛** better together
 - 🧭 Ethics & responsibility **➛** in tech, in community, in craft
 - 🧘 Patience **➛** learned from tuning pianos, applies to debugging too
